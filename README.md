@@ -1,0 +1,2 @@
+# Vehicle-Silhouette-Classification-Machine-Learning-Project-
+ his repository contains a complete machine learning workflow for classifying vehicles based on geometric features extracted from their silhouettes.   The project explores the problem from two analytical perspectives: Supervised Learning and Unsupervised Learning. Both approaches use the same dataset and complement each other in understanding.
